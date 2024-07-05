@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 52.520008,
+        "lng": 13.404954
+      },
+      "id": 7393038555
+    },
+    {
+      "cityName": "Novi Sad",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2023-12-14T20:33:20.490Z",
+      "notes": "ggf",
+      "position": {
+        "lat": "45.27295361736122",
+        "lng": "19.918212890625"
+      },
+      "id": 7393038556
+    },
+    {
+      "cityName": "Valjevo",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2023-12-14T20:38:58.151Z",
+      "notes": "Love",
+      "position": {
+        "lat": "44.27470475118816",
+        "lng": "19.904479980468754"
+      },
+      "id": 7393038559
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2022-09-27T11:29:23.000Z",
+      "notes": "Home city of the best football club in the world",
+      "position": {
+        "lat": "41.380672782057616",
+        "lng": "2.177696228027344"
+      },
+      "id": 7393038560
+    }
+  ]
+}
